@@ -30,10 +30,19 @@ h1 {
 }
 
 .spinner {
-  margin: 100px auto;
-  width: 40px;
-  height: 40px;
-  position: relative;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.spinner div {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
 }
 
 .cube1,
