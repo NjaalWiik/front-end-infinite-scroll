@@ -20,7 +20,7 @@ Here's a blank template to get started:
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Unsplash API - Infinite Scroll</h3>
+  <h3 align="center">Unsplash API - Infinite Puppy Images Scroll</h3>
 
   <p align="center">
     Front end: My take on an infinite picture scroll app.
